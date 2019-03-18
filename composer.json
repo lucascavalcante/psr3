@@ -1,0 +1,14 @@
+{
+    "name": "lucas/psr3",
+    "description": "A presentation project to explain how PSR-3 works.",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^1.24"
+    },
+    "authors": [
+        {
+            "name": "Lucas Cavalcante",
+            "email": "lucascavalcante@gmail.com"
+        }
+    ]
+}
